@@ -45,3 +45,5 @@ password: admin12345
 Pull requests and suggestions are welcome.
 
 ## Quick Look
+
+![Triup4me cover](./public/trip4me-cover__.png)
