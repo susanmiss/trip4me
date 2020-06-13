@@ -3,7 +3,7 @@ Trip4me is a project about my own trips. I wanted to create a website from scrat
 
 ## Quick Look
 
-![Trip4me cover](./public/trip4me-cover__.png)
+![Trip4me cover](./trip4mefront/public/trip4me-cover__.png)
 
 ## Technologies
 - MongoDB
